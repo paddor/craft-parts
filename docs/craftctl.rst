@@ -84,7 +84,7 @@ lifecycle execution is finished::
       aex.execute(actions)
 
   version = lf.project_info.get_project_variable("version")
-  print(f"Version is version")
+  print(f"Version is {version}")
 
 Execution of this example results in::
 
